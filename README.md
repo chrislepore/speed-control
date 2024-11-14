@@ -30,7 +30,7 @@ The hardware setup includes:
   
 #### Hardware Block Diagram
 
-![Block Diagram]()
+![Block Diagram](https://raw.githubusercontent.com/chrislepore/speed-control/refs/heads/main/Images/Hardware%20Diagram.PNG)
 
 ## Software and Flowcharts
 
@@ -38,7 +38,7 @@ The controller software, written in C, uses analog input/output programming and 
 
 ### Control Logic Flowchart
 
-![Flowchart]()
+![Flowchart](https://raw.githubusercontent.com/chrislepore/speed-control/refs/heads/main/Images/Flowchart.PNG)
 
 1. **Initialize Ports and Peripherals**: Sets up ports, clocks, and the LCD.
 2. **Display Initialization**: Prints "RPM:" on the LCD.
@@ -48,12 +48,12 @@ The controller software, written in C, uses analog input/output programming and 
 
 ### LCD Setup
 
-![LCD Setup]()
+![LCD Setup](https://raw.githubusercontent.com/chrislepore/speed-control/refs/heads/main/Images/LCD%20Setup.PNG)
 
 ### Full Setup and Testing
 The system was assembled on a breadboard with the motor, potentiometer, mode switch, and LCD. Below is the complete setup image:
 
-![Full Setup]()
+![Full Setup](https://raw.githubusercontent.com/chrislepore/speed-control/refs/heads/main/Images/Setup.PNG)
 
 ## Conclusion
 
